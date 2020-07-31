@@ -1,0 +1,14 @@
+C:\Users\Настя\source\repos\SMS_Sender\SMS_Sender\bin\Debug\SMS_Sender.exe
+C:\Users\Настя\source\repos\SMS_Sender\SMS_Sender\bin\Debug\SMS_Sender.pdb
+C:\Users\Настя\source\repos\SMS_Sender\SMS_Sender\obj\Debug\SMS_Sender.csprojAssemblyReference.cache
+C:\Users\Настя\source\repos\SMS_Sender\SMS_Sender\obj\Debug\SMS_Sender.Form1.resources
+C:\Users\Настя\source\repos\SMS_Sender\SMS_Sender\obj\Debug\SMS_Sender.Properties.Resources.resources
+C:\Users\Настя\source\repos\SMS_Sender\SMS_Sender\obj\Debug\SMS_Sender.csproj.GenerateResource.cache
+C:\Users\Настя\source\repos\SMS_Sender\SMS_Sender\obj\Debug\SMS_Sender.csproj.CoreCompileInputs.cache
+C:\Users\Настя\source\repos\SMS_Sender\SMS_Sender\obj\Debug\SMS_Sender.exe
+C:\Users\Настя\source\repos\SMS_Sender\SMS_Sender\obj\Debug\SMS_Sender.pdb
+C:\Users\Настя\source\repos\SMS_Sender\SMS_Sender\bin\Debug\SMS_Sender.exe.config
+C:\Users\Настя\source\repos\SMS_Sender\SMS_Sender\bin\Debug\Leaf.xNet.dll
+C:\Users\Настя\source\repos\SMS_Sender\SMS_Sender\bin\Debug\Leaf.xNet.xml
+C:\Users\Настя\source\repos\SMS_Sender\SMS_Sender\obj\Debug\SMS_Sender.csproj.CopyComplete
+C:\Users\Настя\source\repos\SMS_Sender\SMS_Sender\obj\Debug\SMS_Sender.Form2.resources
